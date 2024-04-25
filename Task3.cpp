@@ -5,7 +5,7 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 
-constexpr int PORT = 8080;
+constexpr int PORT = 8081;
 constexpr int BUFFER_SIZE = 1024;
 constexpr int MAX_CONNECTIONS = 5;
 
